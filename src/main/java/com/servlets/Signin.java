@@ -44,7 +44,7 @@ public class Signin extends HttpServlet {
         		session.setAttribute("id",id);
         		session.setAttribute("current-user",name);
         		
-        		response.sendRedirect("navbar.jsp");
+        		response.sendRedirect("home.jsp");
         		//request.getRequestDispatcher("navbar.jsp").include(request, response);
             }
             else 
