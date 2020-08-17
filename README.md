@@ -36,10 +36,10 @@
 Note:- This is a basic Project so we have not think about the security and we have only implemented this project using the generic servlet
 
 #### "Suggestions and project Improvements are Invited!"
-<span style="text-align:right;">
+<p style="text-align:right;">
 <bold>Thanks a lot</bold><br/>
  Project Creator<br/>
- <b >Harshit Shakya</b>   </span>                                                                                                    
+ <b >Harshit Shakya</b>   </p>                                                                                                    
                                                                                                          
                                                                                                          
 <h1>Login Page</h1>
