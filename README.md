@@ -1,5 +1,5 @@
 # Note Taker Website Using Java 
-### E-Commerce
+### Note Taker
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - Add notes
 - Show notes
