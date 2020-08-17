@@ -39,7 +39,7 @@ Note:- This is a basic Project so we have not think about the security and we ha
 
 <bold>Thanks a lot</bold><br/>
                                                                                                         Project Creator<br/>
-                                                                                                         <b>Harshit Shakya</b>
+                                                                                                         <b style="text-align:right;">Harshit Shakya</b>
                                                                                                          
                                                                                                          
 <h1>Login Page</h1>
